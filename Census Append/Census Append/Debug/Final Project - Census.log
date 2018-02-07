@@ -1,0 +1,64 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Final Project - Census Append.vcxproj, Final Project - Census.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ValidationFunctions.c
+c:\users\planetkrater\desktop\set 151 - c 1\week 13 - 15\census append\census append\validationfunctions.c(71): warning C4013: 'StringLength' undefined; assuming extern returning int
+c:\users\planetkrater\desktop\set 151 - c 1\week 13 - 15\census append\census append\validationfunctions.c(76): warning C4013: 'FindLetterNextIndex' undefined; assuming extern returning int
+c:\users\planetkrater\desktop\set 151 - c 1\week 13 - 15\census append\census append\validationfunctions.c(86): warning C4013: 'StringMid' undefined; assuming extern returning int
+c:\users\planetkrater\desktop\set 151 - c 1\week 13 - 15\census append\census append\validationfunctions.c(171): warning C4013: 'StringCopy' undefined; assuming extern returning int
+c:\users\planetkrater\desktop\set 151 - c 1\week 13 - 15\census append\census append\validationfunctions.c(199): warning C4101: 'audtCensusCodesList': unreferenced local variable
+  StringFunctions.c
+  PopulateCensusForms.c
+c:\users\planetkrater\desktop\set 151 - c 1\week 13 - 15\census append\census append\populatecensusforms.c(97): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: see declaration of 'scanf'
+c:\users\planetkrater\desktop\set 151 - c 1\week 13 - 15\census append\census append\populatecensusforms.c(183): warning C4013: 'StringEmpty' undefined; assuming extern returning int
+c:\users\planetkrater\desktop\set 151 - c 1\week 13 - 15\census append\census append\populatecensusforms.c(191): warning C4013: 'TrimWhiteSpace' undefined; assuming extern returning int
+c:\users\planetkrater\desktop\set 151 - c 1\week 13 - 15\census append\census append\populatecensusforms.c(194): warning C4013: 'ValidateDate' undefined; assuming extern returning int
+c:\users\planetkrater\desktop\set 151 - c 1\week 13 - 15\census append\census append\populatecensusforms.c(199): warning C4013: 'StringCopy' undefined; assuming extern returning int
+c:\users\planetkrater\desktop\set 151 - c 1\week 13 - 15\census append\census append\populatecensusforms.c(190): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: see declaration of 'scanf'
+c:\users\planetkrater\desktop\set 151 - c 1\week 13 - 15\census append\census append\populatecensusforms.c(227): warning C4013: 'StringToProperCase' undefined; assuming extern returning int
+c:\users\planetkrater\desktop\set 151 - c 1\week 13 - 15\census append\census append\populatecensusforms.c(234): warning C4013: 'ValidOneDimCensusCode' undefined; assuming extern returning int
+c:\users\planetkrater\desktop\set 151 - c 1\week 13 - 15\census append\census append\populatecensusforms.c(237): warning C4013: 'ValidCountyCode' undefined; assuming extern returning int
+c:\users\planetkrater\desktop\set 151 - c 1\week 13 - 15\census append\census append\populatecensusforms.c(225): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: see declaration of 'scanf'
+c:\users\planetkrater\desktop\set 151 - c 1\week 13 - 15\census append\census append\populatecensusforms.c(230): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: see declaration of 'scanf'
+c:\users\planetkrater\desktop\set 151 - c 1\week 13 - 15\census append\census append\populatecensusforms.c(270): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: see declaration of 'scanf'
+c:\users\planetkrater\desktop\set 151 - c 1\week 13 - 15\census append\census append\populatecensusforms.c(305): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: see declaration of 'scanf'
+c:\users\planetkrater\desktop\set 151 - c 1\week 13 - 15\census append\census append\populatecensusforms.c(343): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: see declaration of 'scanf'
+  Main.c
+c:\users\planetkrater\desktop\set 151 - c 1\week 13 - 15\census append\census append\main.c(61): warning C4013: 'CensusCodes' undefined; assuming extern returning int
+c:\users\planetkrater\desktop\set 151 - c 1\week 13 - 15\census append\census append\main.c(120): warning C4047: '=': 'char' differs in levels of indirection from 'char [1]'
+c:\users\planetkrater\desktop\set 151 - c 1\week 13 - 15\census append\census append\main.c(136): warning C4013: 'PopulateCensusForms' undefined; assuming extern returning int
+c:\users\planetkrater\desktop\set 151 - c 1\week 13 - 15\census append\census append\main.c(152): warning C4013: 'FileAppend' undefined; assuming extern returning int
+c:\users\planetkrater\desktop\set 151 - c 1\week 13 - 15\census append\census append\main.c(126): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: see declaration of 'scanf'
+c:\users\planetkrater\desktop\set 151 - c 1\week 13 - 15\census append\census append\main.c(160): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: see declaration of 'scanf'
+c:\users\planetkrater\desktop\set 151 - c 1\week 13 - 15\census append\census append\main.c(176): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: see declaration of 'scanf'
+c:\users\planetkrater\desktop\set 151 - c 1\week 13 - 15\census append\census append\main.c(219): warning C4013: 'StringCopy' undefined; assuming extern returning int
+c:\users\planetkrater\desktop\set 151 - c 1\week 13 - 15\census append\census append\main.c(254): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: see declaration of 'scanf'
+c:\users\planetkrater\desktop\set 151 - c 1\week 13 - 15\census append\census append\main.c(323): warning C4013: 'PopulateCensusPrompt' undefined; assuming extern returning int
+c:\users\planetkrater\desktop\set 151 - c 1\week 13 - 15\census append\census append\main.c(306): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: see declaration of 'scanf'
+c:\users\planetkrater\desktop\set 151 - c 1\week 13 - 15\census append\census append\main.c(349): warning C4013: 'GetDate' undefined; assuming extern returning int
+c:\users\planetkrater\desktop\set 151 - c 1\week 13 - 15\census append\census append\main.c(354): warning C4013: 'GetCountyState' undefined; assuming extern returning int
+c:\users\planetkrater\desktop\set 151 - c 1\week 13 - 15\census append\census append\main.c(357): warning C4013: 'GetRace' undefined; assuming extern returning int
+c:\users\planetkrater\desktop\set 151 - c 1\week 13 - 15\census append\census append\main.c(360): warning C4013: 'GetHouseholdSize' undefined; assuming extern returning int
+c:\users\planetkrater\desktop\set 151 - c 1\week 13 - 15\census append\census append\main.c(363): warning C4013: 'GetHouseholdIncome' undefined; assuming extern returning int
+  File.c
+c:\users\planetkrater\desktop\set 151 - c 1\week 13 - 15\census append\census append\file.c(65): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\planetkrater\desktop\set 151 - c 1\week 13 - 15\census append\census append\file.c(96): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+  CensusCodes.c
+c:\users\planetkrater\desktop\set 151 - c 1\week 13 - 15\census append\census append\censuscodes.c(81): warning C4013: 'StringCopy' undefined; assuming extern returning int
+c:\users\planetkrater\desktop\set 151 - c 1\week 13 - 15\census append\census append\censuscodes.c(151): warning C4013: 'StringLength' undefined; assuming extern returning int
+c:\users\planetkrater\desktop\set 151 - c 1\week 13 - 15\census append\census append\censuscodes.c(165): warning C4013: 'PrintWhiteSpace' undefined; assuming extern returning int
+  Generating Code...
+  Final Project - Census.vcxproj -> C:\Users\planetkrater\Desktop\SET 151 - C 1\Week 13 - 15\Census Append\Debug\Census Append.exe
+  Final Project - Census.vcxproj -> C:\Users\planetkrater\Desktop\SET 151 - C 1\Week 13 - 15\Census Append\Debug\Census Append.pdb (Partial PDB)
