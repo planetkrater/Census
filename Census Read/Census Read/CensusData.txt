@@ -1,0 +1,9 @@
+5/8/2017, Butler, Ohio, Asian, 1, 100000, 1
+9/9/2017, Hamilton, Ohio, Caucasian, 2, 57000, 1
+8/16/2017, Hamilton, Ohio, Caucasian, 2, 120000, 1
+9/8/2017, Butler, Ohio, Other, 1, 45000, 1
+5/8/2017, Butler, Ohio, African American, 5, 53400, 1
+5/8/2017, Kenton, Kentucky, Asian, 5, 56700, 1
+6/9/2016, Butler, Ohio, African American, 1, 12000, 1
+8/9/2017, Clermont, Ohio, Hispanic, 5, 25000, 1
+3/05/2018, Campbell, Kentucky, Asian, 10, 85000, 1
